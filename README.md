@@ -10,7 +10,7 @@
 
 ### What you can search for
 
-We have created a search engine for the Weiland cohort! Search any name to see your friends' favourite foods and where you can try them too! If you try to search for someone not in the WEiland cohort, you can expect to see the following error in the console, 'This member does not exist in the Weiland cohort!'
+We have created a search engine for the Weiland cohort! Search any name to see your friends' favourite foods and where you can try them too! If you try to search for someone not in the Weiland cohort, you can expect to see the following error in the console, 'This member does not exist in the Weiland cohort!'
 
 ### Features
 
