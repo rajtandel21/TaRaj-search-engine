@@ -1,4 +1,4 @@
-const server = require('./createServer')
+const server = require("./createServer");
 
 server.listen(
   3000,
