@@ -64,7 +64,7 @@ async function getSpecificData(name) {
       enterElement(resData);
     }
   } catch (err) {
-    console.log("i am in the error block");
+    console.log("This member does not exist in the Weiland cohort!");
     searchInput.setAttribute("placeholder", "This user does not exist");
   }
 }

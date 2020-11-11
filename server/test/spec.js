@@ -20,4 +20,12 @@ describe("API tests", () => {
   it("returns greeting at /", (done) => {
     request(api).get("/").expect(200, done);
   });
+
+  it("responds to /weiland", (done) => {
+    request(api).get("/weiland").expect(200, done);
+  });
+
+  it("responds to /weiland/random", (done) => {
+    request(api).get("/weiland/random").expect(200, done);
+  });
 });
