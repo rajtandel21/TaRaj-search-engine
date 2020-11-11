@@ -1,4 +1,4 @@
-## TaRaj search engine
+## TaRaj Search Engine
 
 ### How to use our search engine
 
