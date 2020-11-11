@@ -34,6 +34,12 @@ header {
     font-family: 'Montserrat', sans-serif;
 }
 
+#result{
+    
+    width: 90vw;
+    height: 40vh;
+}
+
 div{
     display: flex;
     flex-direction: column;
